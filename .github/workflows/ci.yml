@@ -49,5 +49,6 @@ jobs:
       if: failure()
       with:
         name: reports
+        have a wonderful day
         path: reports.zip
 have a good day
